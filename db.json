@@ -1,0 +1,29 @@
+{
+  "myList": [
+    {
+      "id": 1,
+      "title": "Groceries",
+      "description": "Lorem ipsum and some other words"
+    },
+    {
+      "id": 2,
+      "title": "Pick up Daughter",
+      "description": "Lorem ipsum and some other words"
+    },
+    {
+      "id": 3,
+      "title": "Dishes",
+      "description": "Lorem ipsum and some other words"
+    },
+    {
+      "id": 4,
+      "title": "Christmas Tree",
+      "description": "Lorem ipsum and some other words"
+    },
+    {
+      "id": 5,
+      "title": "Wash Car",
+      "description": "Lorem ipsum and some other words"
+    }
+  ]
+}
